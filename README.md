@@ -1,10 +1,10 @@
 ## Project Access
 
 Full Project Files (Unity):
-[https://your-google-drive-link](https://drive.google.com/drive/folders/1qQaY7cwuLp00HKnm-Wk4uFZKxVcuQ1A7?usp=drive_link)
+[CLICK HERE TO DOWNLOAD THE PROJECT](https://drive.google.com/drive/folders/1qQaY7cwuLp00HKnm-Wk4uFZKxVcuQ1A7?usp=drive_link)
 
 Demo Video:
-[https://your-video-link](https://youtu.be/J0q7PulucfY)
+[HERE TO VIEW THE VIDEO](https://youtu.be/J0q7PulucfY)
 
 ---
 
