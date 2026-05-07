@@ -1,3 +1,13 @@
+## Project Access
+
+Full Project Files (Unity):
+[https://your-google-drive-link](https://drive.google.com/drive/folders/1qQaY7cwuLp00HKnm-Wk4uFZKxVcuQ1A7?usp=drive_link)
+
+Demo Video:
+[https://your-video-link](https://youtu.be/J0q7PulucfY)
+
+---
+
 # UniFlow — Smart Campus Navigation System
 
 A smart indoor and outdoor navigation system designed to improve movement inside large environments such as universities, events, and public facilities.
